@@ -15,6 +15,4 @@ Start the game by pressing the "Start/Pause" button. The tetrominoes will make t
 
 # Deployed Application
 
-#
-
-GitHub Pages:
+GitHub Pages: https://chr1sti4n0.github.io/tetris/
